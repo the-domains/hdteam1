@@ -1,7 +1,7 @@
 name: HDTeam1
 favicon: null
-layout_spectrum: 0.023119500372558832
-typography_spectrum: 0.5648315835278481
+layout_spectrum: 0.49638
+typography_spectrum: 0.25513
 title: Próba
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.9501732881180942
+  brandStrength: 0.5
   lightness: 0.5187800878193229
-  saturation: 0.7182662077248096
+  saturation: 0.8125
   rhythmicContrast: 0.9410297437570989
 purpose: []
